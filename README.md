@@ -4,15 +4,13 @@
 </p>
 
 ---
-
 ### 👨‍💻 About Me
 👨‍💻 **Backend Developer** | ML/AI Enthusiast | Problem Solver  
 🤖 Exploring scalable backend systems, Machine Learning & AI  
 🛠️ Skilled in Python, Django, FastAPI & PostgreSQL  
 🌱 Passionate about continuous learning and crafting robust solutions  
-
 ---
-<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #FF6F61; margin-bottom: 10px;">
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #FF6F61; margin-bottom: 10 px;">
   🎨 My Colorful GitHub Activity
 </h2>
 
