@@ -7,23 +7,13 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/ak101secure" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #FF6F61; font-weight: 600;">
-    Explore my full profile & contributions
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ak101secure&theme=react&hide_border=true&area=true" alt="Colorful Contribution Graph" />
 </p>
-
-
-
-
-
 ### 🧰 My Toolbox
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,docker,linux,git,redis" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,django,fastapi,postgresql,docker,linux,git,redis" />
 </p>
+
 
 ---
 
