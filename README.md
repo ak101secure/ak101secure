@@ -9,22 +9,36 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ak101secure&theme=react&hide_border=true&area=true" alt="Colorful Contribution Graph" />
 </p>
-### 🧰 My Toolbox
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,django,fastapi,postgresql,docker,linux,git,redis" />
-</p>
-
-
 ---
 ## 🛠️ Skills & Technologies
 
+### 🖥️ Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,django,fastapi,postgresql,docker,linux,git,redis" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
 </p>
 
-<p align="center" style="font-size: 14px; color: #6a737d;">
-  C, C++, Python, JavaScript, Django, FastAPI, PostgreSQL, Docker, Linux, Git, Redis
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" />
 </p>
+
+### ⚙️ Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,tailwind,bootstrap" />
+</p>
+
+### 🛠️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman" />
+  <!-- Notion and Gera (maybe you mean Jira?) icons are not available on skillicons.dev, so you can add logos as images if you want -->
+</p>
+
+### ☁️ Cloud Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=digitalocean,aws" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Cloudinary_logo.svg" alt="Cloudinary" width="40" style="margin-left: 10 px; vertical-align: middle;">
+</p>
+
 
 
 ## 📊 My GitHub Stats & Most Used Languages
