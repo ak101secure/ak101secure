@@ -1,102 +1,35 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36D1DC&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Afzal+Khan;Backend+Developer+%7C+ML+Learner;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
-</h1>
+# 👋 Hi, I’m Afzal Khan
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
+### 🖥️ Backend Developer | 🤖 ML Learner | 🧩 Problem Solver
 
-<div align="center">
-✨ **Backend Developer | 🤖 ML Enthusiast | 🧩 Problem Solver** ✨
-</div>
+I build **robust backends**, design **scalable APIs**, and enjoy solving **real–world problems** through code.  
+Currently exploring **Machine Learning** to combine data and logic into impactful solutions.  
+
+🌐 [Portfolio](https://afzalkhan.dev) • [LinkedIn](https://linkedin.com/in/afzalkhan) • 📧 afzal@example.com
 
 ---
 
-## 🔥 About Me
-- 🖥️ I craft **robust, scalable backends** with Python & Django.
-- 🤖 Currently exploring **Machine Learning** to solve real–world problems.
-- 🧩 I love **algorithmic challenges** & problem–solving.
-- 🌱 Always learning, building, improving.
-- 🌍 [Portfolio](https://afzalkhan.dev) | [LinkedIn](https://linkedin.com/in/afzalkhan) | 📧 `afzal@example.com`
-
----
-
-## 🚀 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,postgres,docker,linux,git,fastapi,cloudinary" />
-</div>
-
----
-
-## 🧰 Tools I Use
-
-| 🧑‍💻 Languages | ⚙️ Frameworks | ☁️ Cloud & Tools |
-|---|---|---|
-| Python 🐍 | Django 🟢 | Docker 🐳 |
-| Bash 🖋️ | Flask ⚫ | Cloudinary ☁️ |
-| SQL 📊 | REST API 🔗 | Linux 🐧 |
+## 🚀 Tech I Work With
+**Languages:** Python, Bash, SQL  
+**Frameworks:** Django, Flask, FastAPI  
+**Tools:** PostgreSQL, Docker, Cloudinary, Linux  
+**Interests:** Machine Learning, Algorithms
 
 ---
 
 ## 📈 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afzalkhan&show_icons=true&theme=tokyonight&count_private=true" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzalkhan&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=afzalkhan&show_icons=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzalkhan&layout=compact&theme=default" height="150" />
 </div>
 
 ---
 
-## 🧩 Problem Solving
-
-💡 I solve algorithmic & real–world problems:  
-> _“Every problem is a gift — without them we wouldn’t grow.”_ ✨
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=afzalkhan&theme=onedark&column=4" />
-    </td>
-  </tr>
-</table>
+## 🌟 Featured Work
+- 🌐 [Global Time API](https://global-time-api.onrender.com/) — Convert timezones with Flask
+- 📷 [Image Hosting API](https://github.com/afzalkhan/image-host-api) — Django + Cloudinary
+- 🧰 [Portfolio Site](https://afzalkhan.dev) — My personal site
 
 ---
 
-## 🌱 Currently Learning
-🎯 Diving into:
-- 🤖 Machine Learning: `scikit-learn`, `pandas`, `numpy`
-- 📈 Data pipelines & ML deployment
-- 🗄️ Distributed systems & cloud–native apps
-
----
-
-## 🌟 Featured Projects
-
-| 🚀 Project | 🔗 Link |
-|------------|---------|
-| 🌐 **Global Time API** | [Live](https://global-time-api.onrender.com/) |
-| 📷 **Image Hosting API** | [GitHub](https://github.com/afzalkhan/image-host-api) |
-| 🧰 **Portfolio Site** | [Live](https://afzalkhan.dev) |
-
----
-
-## ✨ Let’s Connect
-
-<p align="center">
-  <a href="mailto:afzal@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/afzalkhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://afzalkhan.dev"><img src="https://img.shields.io/badge/Portfolio-36D1DC?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
-
-<p align="center">
-  🌟 _Thanks for stopping by! Don’t forget to ⭐ my repositories if you like them!_
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=150&section=footer"/>
-</p>
+📬 *Feel free to connect & collaborate!*
