@@ -2,8 +2,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer;Machine+Learning+Enthusiast;AI+Explorer;Problem+Solver+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #FF6F61; margin-bottom: 10 px;">
-  🎨 My Colorful GitHub Activity
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #007ACC; margin-bottom: 12 px; font-weight: 700;">
+  🎨 GitHub Contribution Highlights
 </h2>
 
 <p align="center">
