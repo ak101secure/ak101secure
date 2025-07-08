@@ -1,6 +1,3 @@
-<h1 align="center">
-  Hi there 👋, I'm <span style="color:#f39c12;">Afzal Khan</span>  
-</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer;Machine+Learning+Enthusiast;AI+Explorer;Problem+Solver+%F0%9F%9A%80" alt="Typing SVG" />
@@ -9,11 +6,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔗 Backend Developer | ML/AI Enthusiast | Problem Solver
-- 🤖 Currently exploring <b>Machine Learning, AI and scalable backend systems</b>
-- 🧩 Love solving problems & building robust solutions
-- 🛠️ Languages & Frameworks: **Python, Django, FastAPI, PostgreSQL**
-- 🌱 Always learning & growing, one line of code at a time!
+👨‍💻 **Backend Developer** | ML/AI Enthusiast | Problem Solver  
+🤖 Exploring scalable backend systems, Machine Learning & AI  
+🛠️ Skilled in Python, Django, FastAPI & PostgreSQL  
+🌱 Passionate about continuous learning and crafting robust solutions  
 
 ---
 <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #FF6F61; margin-bottom: 10px;">
