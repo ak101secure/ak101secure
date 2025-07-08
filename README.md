@@ -10,7 +10,40 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ak101secure&theme=react&hide_border=true&area=true" alt="Colorful Contribution Graph" />
 </p>
 ---
-## 🛠️ Skills & Technologies
+
+<h2 align="center" style="
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 900;
+  font-size: 2.5rem;
+  background: linear-gradient(45deg, #ff6ec4, #7873f5, #4ade80);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow:
+    1px 1px 2px rgba(0,0,0,0.3),
+    0 0 10px rgba(255,110,196,0.7),
+    0 0 20px rgba(120,115,245,0.7);
+  animation: glow 2.5s ease-in-out infinite alternate;
+">
+  🛠️ Skills & Technologies
+</h2>
+
+<style>
+@keyframes glow {
+  0% {
+    text-shadow:
+      1px 1px 2px rgba(0,0,0,0.3),
+      0 0 10px rgba(255,110,196,0.7),
+      0 0 20px rgba(120,115,245,0.7);
+  }
+  100% {
+    text-shadow:
+      1px 1px 3px rgba(0,0,0,0.5),
+      0 0 15px rgba(255,110,196,1),
+      0 0 30px rgba(120,115,245,1);
+  }
+}
+</style>
+
 
 ### 🖥️ Languages  
 C, C++, Python, JavaScript
