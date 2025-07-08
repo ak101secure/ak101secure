@@ -1,14 +1,15 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer;Machine+Learning+Enthusiast;AI+Explorer;Problem+Solver+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #007ACC; margin-bottom: 12 px; font-weight: 700;">
+
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #007ACC; margin-bottom: 12px; font-weight: 700;">
   🎨 GitHub Contribution Highlights
 </h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ak101secure&theme=react&hide_border=true&area=true" alt="Colorful Contribution Graph" />
 </p>
+
 ---
 
 <h2 align="center" style="
@@ -22,28 +23,9 @@
     1px 1px 2px rgba(0,0,0,0.3),
     0 0 10px rgba(255,110,196,0.7),
     0 0 20px rgba(120,115,245,0.7);
-  animation: glow 2.5s ease-in-out infinite alternate;
 ">
   🛠️ Skills & Technologies
 </h2>
-
-<style>
-@keyframes glow {
-  0% {
-    text-shadow:
-      1px 1px 2px rgba(0,0,0,0.3),
-      0 0 10px rgba(255,110,196,0.7),
-      0 0 20px rgba(120,115,245,0.7);
-  }
-  100% {
-    text-shadow:
-      1px 1px 3px rgba(0,0,0,0.5),
-      0 0 15px rgba(255,110,196,1),
-      0 0 30px rgba(120,115,245,1);
-  }
-}
-</style>
-
 
 ### 🖥️ Languages  
 C, C++, Python, JavaScript
@@ -60,6 +42,8 @@ Docker, Git, GitHub, Notion, Jira, Postman
 ### ☁️ Cloud Platforms  
 DigitalOcean, AWS, Cloudinary
 
+---
+
 ## 📊 My GitHub Stats & Most Used Languages
 
 <p align="center">
@@ -67,11 +51,9 @@ DigitalOcean, AWS, Cloudinary
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak101secure&layout=donut&theme=tokyonight&hide_border=true&border_radius=15" width="47%" />
 </p>
 
-
-
 ---
 
-### 🪄 Fun Facts
+### 🪄 Fun Facts  
 ✨ Backend is ❤️  
 🤯 AI & ML make me curious  
 🔍 Debugging is just like solving puzzles  
@@ -80,17 +62,18 @@ DigitalOcean, AWS, Cloudinary
 ---
 
 ### 🎯 Let’s Connect!
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank" rel="noopener noreferrer">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:your.email@example.com" target="_blank" rel="noopener noreferrer">
   <img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
 </a>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Keep solving, keep learning" />
 </p>
 
 <p align="center">
