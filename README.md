@@ -16,6 +16,16 @@
 
 
 ---
+## 🛠️ Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,django,fastapi,postgresql,docker,linux,git,redis" />
+</p>
+
+<p align="center" style="font-size: 14px; color: #6a737d;">
+  C, C++, Python, JavaScript, Django, FastAPI, PostgreSQL, Docker, Linux, Git, Redis
+</p>
+
 
 ## 📊 My GitHub Stats & Most Used Languages
 
