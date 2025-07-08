@@ -24,10 +24,17 @@
 
 ---
 
-### 📊 My Most Used Languages
+## 📊 My GitHub Stats & Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak101secure&layout=compact&theme=radical" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ak101secure&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak101secure&layout=donut&theme=tokyonight&hide_border=true&border_radius=15" width="47%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ak101secure&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
 
 
 ---
