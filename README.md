@@ -27,22 +27,31 @@
   🛠️ Skills & Technologies
 </h2>
 
-### 🖥️ Languages  
-C, C++, Python, JavaScript
+### 🛠️ Skills & Technologies
 
-### 🗄️ Databases  
-MySQL, PostgreSQL, SQLite, MongoDB
+<table align="center">
+  <tr>
+    <td><strong>🖥️ Languages</strong></td>
+    <td>C, C++, Python, JavaScript</td>
+  </tr>
+  <tr>
+    <td><strong>🗄️ Databases</strong></td>
+    <td>MySQL, PostgreSQL, SQLite, MongoDB</td>
+  </tr>
+  <tr>
+    <td><strong>⚙️ Frameworks & Libraries</strong></td>
+    <td>Django, Flask, Django REST Framework (DRF), Tailwind CSS, Bootstrap</td>
+  </tr>
+  <tr>
+    <td><strong>🛠️ Tools</strong></td>
+    <td>Docker, Git, GitHub, Notion, Jira, Postman</td>
+  </tr>
+  <tr>
+    <td><strong>☁️ Cloud Platforms</strong></td>
+    <td>DigitalOcean, AWS, Cloudinary</td>
+  </tr>
+</table>
 
-### ⚙️ Frameworks & Libraries  
-Django, Flask, Django REST Framework (DRF), Tailwind CSS, Bootstrap
-
-### 🛠️ Tools  
-Docker, Git, GitHub, Notion, Jira, Postman
-
-### ☁️ Cloud Platforms  
-DigitalOcean, AWS, Cloudinary
-
----
 
 ## 📊 My GitHub Stats & Most Used Languages
 
@@ -84,6 +93,11 @@ DigitalOcean, AWS, Cloudinary
 </table>
 
 ---
+
 <p align="center">
-  <i>“Keep solving. Keep learning. Keep building.”</i>
+  <i><span style="color:#4ADE80;">“Keep solving. Keep learning. Keep building.”</span></i>
+</p>
+
+<p align="center">
+  <i><span style="color:#60A5FA;">জীবনে যত বড় হও, পা দুটি মাটিতে রাখো। মাটির তৈরি, মাটিতেই আর্পণ। সময়টাও খুবই কম।</span></i>
 </p>
