@@ -94,10 +94,15 @@
 
 ---
 
-<p align="center">
-  <i><span style="color:#4ADE80;">“Keep solving. Keep learning. Keep building.”</span></i>
-</p>
+<div align="center" style="max-width: 700px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-<p align="center">
-  <i><span style="color:#60A5FA;">জীবনে যত বড় হও, পা দুটি মাটিতে রাখো। মাটির তৈরি, মাটিতেই আর্পণ। সময়টাও খুবই কম।</span></i>
-</p>
+  <p style="font-size: 1.4rem; font-style: italic; color: #4ADE80; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2); margin-bottom: 1.5rem;">
+    “Keep solving. Keep learning. Keep building.”
+  </p>
+
+  <p style="font-size: 1.3rem; font-style: italic; color: #FBBF24; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2); line-height: 1.5;">
+    জীবনে যত বড় হও, পা দুটি মাটিতে রাখো। মাটির তৈরি, মাটিতেই আত্মসমর্পণ। সময়টাও খুবই কম।
+  </p>
+
+</div>
+
