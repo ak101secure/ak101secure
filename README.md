@@ -32,7 +32,7 @@
 <table align="center">
   <tr>
     <td><strong>🖥️ Languages</strong></td>
-    <td>C, C++, Python, JavaScript</td>
+    <td>C, C++, Python, JavaScript,Go</td>
   </tr>
   <tr>
     <td><strong>🗄️ Databases</strong></td>
