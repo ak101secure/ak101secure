@@ -12,34 +12,20 @@
 ---
 ## 🛠️ Skills & Technologies
 
-### 🖥️ Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
-</p>
+### 🖥️ Languages  
+C, C++, Python, JavaScript
 
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" />
-</p>
+### 🗄️ Databases  
+MySQL, PostgreSQL, SQLite, MongoDB
 
-### ⚙️ Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,tailwind,bootstrap" />
-</p>
+### ⚙️ Frameworks & Libraries  
+Django, Flask, Django REST Framework (DRF), Tailwind CSS, Bootstrap
 
-### 🛠️ Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman" />
-  <!-- Notion and Gera (maybe you mean Jira?) icons are not available on skillicons.dev, so you can add logos as images if you want -->
-</p>
+### 🛠️ Tools  
+Docker, Git, GitHub, Notion, Jira, Postman
 
-### ☁️ Cloud Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=digitalocean,aws" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Cloudinary_logo.svg" alt="Cloudinary" width="40" style="margin-left: 10 px; vertical-align: middle;">
-</p>
-
-
+### ☁️ Cloud Platforms  
+DigitalOcean, AWS, Cloudinary
 
 ## 📊 My GitHub Stats & Most Used Languages
 
