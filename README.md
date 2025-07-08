@@ -16,6 +16,22 @@
 - 🌱 Always learning & growing, one line of code at a time!
 
 ---
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #61dafb; margin-bottom: 10 px;">
+  🚀 My GitHub Contribution Activity
+</h2>
+
+<p align="center">
+  <a href="https://github.com/ak101secure" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #21a1f1; font-weight: 600;">
+    View my full GitHub profile & contributions
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ak101secure&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+
+
 
 ### 🧰 My Toolbox
 <p>
@@ -29,10 +45,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ak101secure&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak101secure&layout=donut&theme=tokyonight&hide_border=true&border_radius=15" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ak101secure&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 
